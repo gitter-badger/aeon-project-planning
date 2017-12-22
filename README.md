@@ -1,7 +1,7 @@
 AEON Project Planning 
 ======
 
-Nothing more than a Markdown README allowing for this repository and document to house a living preplanning document that is publicly available, accessible, and with all its revisions being equally so.
+Nothing more than a Markdown README allowing for this repository and document to house a living preplanning document that is publicly available, accessible, and with all its revisions being equally so, as well as a space for raw, static documentation, as we'll be referring to, and for the most part adhering to, specific international standards, within reason (read: without being ridiculous and insane gits and sticklers for strict adherence to whatever rules just because)
 
 
 
